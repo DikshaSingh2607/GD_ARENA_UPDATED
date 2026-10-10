@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="GD Arena mark">
+  <rect width="128" height="128" rx="28" fill="#101310"/>
+  <ellipse cx="64" cy="66" rx="40" ry="27" fill="#20291d" stroke="#b9c99a" stroke-opacity=".76" stroke-width="2"/>
+  <ellipse cx="64" cy="66" rx="29" ry="18" fill="none" stroke="#b9c99a" stroke-opacity=".23" stroke-width="1.5" stroke-dasharray="3 4"/>
+  <path d="M27 66h8l5-10 8 21 8-31 8 40 8-30 8 18 7-8h20" fill="none" stroke="#d7e2bc" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+  <circle cx="64" cy="20" r="4" fill="#d58c68"/>
+</svg>
