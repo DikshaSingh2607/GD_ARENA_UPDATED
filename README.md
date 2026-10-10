@@ -1,8 +1,6 @@
 # GD Arena
 
-> **Problem Statement:** `[Add your official problem statement number and title]`
 
-## What it does
 
 GD Arena is an AI-assisted group-discussion practice arena that helps students prepare for group discussions, placement rounds, and interviews. Users choose a topic, discussion format, language, duration, and pressure level, then practise with AI-driven participants and a moderator; afterwards, they can review their transcript and receive feedback on communication, relevance, listening, and argument-building.
 
