@@ -87,11 +87,7 @@ The production server serves the built frontend and API from the same Express pr
 
 ### Test login
 
-No login is required in the current prototype.
-
-### Live URL
-
-`[Add the deployed application URL after deployment and verification]`
+(https://gd-arena-updated.onrender.com/)
 
 ## Tools and AI used
 
